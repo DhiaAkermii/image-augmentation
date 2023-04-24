@@ -5,3 +5,5 @@ Image augmentation using Keras
 - Horizontal shift
 - Vertical shift
 - Rotation
+- Zoom 
+- Combining all the augmentations
